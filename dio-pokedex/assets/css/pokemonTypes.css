@@ -1,0 +1,181 @@
+.type,
+.skill{
+    padding: .35rem .6rem;
+    margin: .25rem;
+    border-radius: 10em;
+    font-size: 1rem;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.normal{
+    background: #AAAA99;
+    color: #ffffff;
+}
+
+.normalPokemon{
+    background: rgba(170, 170, 153, 0.6);
+}
+
+.fighting{
+    background: #BB5544;
+    color: #ffffff;
+}
+
+.fightingPokemon{
+    background: rgba(186, 86, 69, 0.6);
+}
+
+.flying{
+    background: #8899FF;
+    color: #ffffff;
+}
+
+.flyingPokemon{
+    background: rgba(136, 153, 255, 0.6);
+}
+
+.poison{
+    background: #AA5599;
+    color: #ffffff;
+}
+
+.poisonPokemon{
+    background: rgba(170, 85, 153, 0.6);
+}
+
+.ground{
+    background: #ddbb55;
+    color: #ffffff;
+}
+
+.groundPokemon{
+    background: rgba(221, 187, 85, 0.6);
+}
+
+.rock{
+    background: #bbaa66;
+    color: #ffffff;
+}
+
+.rockPokemon{
+    background: rgba(187, 170, 102, 0.6);
+}
+
+.bug{
+    background: #aabb22;
+    color: #ffffff;
+}
+
+.bugPokemon{
+    background: rgba(170, 187, 34, 0.6);
+}
+
+.ghost{
+    background: #6666bb;
+    color: #ffffff;
+}
+
+.ghostPokemon{
+    background: rgba(102, 102, 187, 0.6);
+}
+
+.steel{
+    background: #aaaabb;
+    color: #ffffff;
+}
+
+.steelPokemon{
+    background: rgba(170, 170, 187, 0.6);
+}
+
+.fire{
+    background: #ff4422;
+    color: #ffffff;
+}
+
+.firePokemon{
+    background: rgba(255, 68, 34, 0.6);
+}
+
+.water{
+    background: #3399ff;
+    color: #ffffff;
+}
+
+.waterPokemon{
+    background: rgba(51, 153, 255, 0.6);
+}
+
+.grass{
+    background: #77cc55;
+    color: #ffffff;
+}
+
+.grassPokemon{
+    background: rgba(119, 204, 85, 0.6);
+}
+
+.electric{
+    background: #ffcc33;
+    color: #ffffff;
+}
+
+.electricPokemon{
+    background: rgba(255, 204, 51, 0.6);
+}
+
+.psychic{
+    background: #ff5599;
+    color: #ffffff;
+}
+
+.psychicPokemon{
+    background: rgba(255, 85, 153, 0.6);
+}
+
+.ice{
+    background: #66ccff;
+    color: #ffffff;
+}
+
+.icePokemon{
+    background:rgba(102, 204, 255, 0.6)
+}
+
+.dragon{
+    background: #7766EE;
+    color: #ffffff;
+}
+
+.dragonPokemon{
+    background: rgba(119, 102, 238, 0.6);
+}
+
+.dark{
+    background: #775544;
+    color: #ffffff;
+}
+
+.darkPokemon{
+    background: rgba(119, 85, 68, 0.6);
+}
+
+.fairy{
+    background: #ee99ee;
+    color: #ffffff;
+}
+
+.fairyPokemon{
+    background: rgba(238, 153, 238, 0.6);
+}
+
+.stellar{
+    background: conic-gradient(#ff4422, #ffcc33, #77cc55, #3399ff, #66ccff, #7766EE, #ff5599);
+    color: #ffffff;
+}
+
+.unknown{
+    background: #22bbaa;
+    color: #ffffff;
+}

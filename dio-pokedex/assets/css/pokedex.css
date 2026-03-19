@@ -1,0 +1,55 @@
+.pokemon-list,
+.types,
+.abilities{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.types,
+.abilities,
+.info{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+}
+
+.abilities{
+    /* Keeping it hidden until hovering parent element*/
+    display: none;
+}
+
+.pokemon{
+    margin: .5rem;
+    padding: 1rem;
+    color: white;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    font-size: 1.1rem;
+    max-width: 450px;
+}
+
+.number{
+    text-align: right;
+    color: black;
+    opacity: .3;
+}
+
+.pokemon-img{
+    width: 50%;
+    margin-left: auto;
+    align-self: flex-end;
+}
+
+.detail,
+.pagination{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.skill{
+    filter:saturate(65%)
+}
